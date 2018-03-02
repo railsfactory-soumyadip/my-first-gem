@@ -41,3 +41,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 ## Code of Conduct
 
 Everyone interacting in the MyFirstGem project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/my_first_gem/blob/master/CODE_OF_CONDUCT.md).
+# my-first-gem
